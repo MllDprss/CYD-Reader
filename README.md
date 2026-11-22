@@ -6,6 +6,15 @@
       <img width="200" alt="CYD-Reader" src="https://github.com/user-attachments/assets/ae34c941-93f4-47c6-9b4b-0d2e3ee3f511" />
     </td>
     <td>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+        <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+        <img src="https://img.shields.io/badge/Hardware-CYD%20(ESP32--2432S028R)-00599C?style=for-the-badge&logo=espressif&logoColor=white" alt="CYD" />
+        <a href="./LICENSE">
+          <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
+        </a>
+      </p>
       <p>Portable e-reader for ESP32 with a touchscreen display: reads a <code>.txt</code> file from an SD card, formats it into pages, and remembers where you left off.</p>
     </td>
   </tr>
