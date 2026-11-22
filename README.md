@@ -1,8 +1,17 @@
 # CYD-Reader
 
-*[Leggi in Italiano 🇮🇹](#italiano-)*
+<table>
+  <tr>
+    <td>
+      <img width="200" alt="CYD-Reader" src="https://github.com/user-attachments/assets/ae34c941-93f4-47c6-9b4b-0d2e3ee3f511" />
+    </td>
+    <td>
+      <p>Portable e-reader for ESP32 with a touchscreen display: reads a <code>.txt</code> file from an SD card, formats it into pages, and remembers where you left off.</p>
+    </td>
+  </tr>
+</table>
 
-Portable e-reader for ESP32 with a touchscreen display: reads a `.txt` file from an SD card, formats it into pages, and remembers where you left off.
+*[Leggi in Italiano 🇮🇹](#italiano-)*
 
 ## Features
 - Reads `libro.txt` from an SD card
